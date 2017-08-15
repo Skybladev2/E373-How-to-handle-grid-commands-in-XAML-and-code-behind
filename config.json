@@ -1,0 +1,8 @@
+{
+	"autoGenerateVb": true,
+	"platform": "WPF",
+	"product": "DXGrid for WPF",
+	"runOnWeb": false,
+	"technology": ".NET",
+	"unsupportedVersions": ""
+}
